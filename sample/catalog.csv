@@ -1,0 +1,6 @@
+sku,name,category,price,currency,url,description
+CAM-001,Компактная камера,Камеры,12990.50,RUB,https://example.test/camera,Камера для путешествий
+TRI-002,"Штатив, 2 м",Аксессуары,2490,RUB,https://example.test/tripod,"Стальной штатив с надёжной фиксацией"
+MIC-003,Петличный микрофон,Звук,3990,RUB,https://example.test/microphone,Компактный микрофон для записи
+CAM-001,Повторная камера,Камеры,9990,RUB,https://example.test/duplicate,Повтор артикула
+BAD-005,Чехол,Аксессуары,-100,RUB,https://example.test/case,Некорректная цена

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-10-14 15:12">
+  <shop>
+    <name>Демо-магазин</name>
+    <company>Демо-компания</company>
+    <url>https://example.test</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Аксессуары</category>
+      <category id="2">Звук</category>
+      <category id="3">Камеры</category>
+    </categories>
+    <offers>
+      <offer id="CAM-001" available="true">
+        <url>https://example.test/camera</url>
+        <price>12990.5</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Компактная камера</name>
+        <description>Камера для путешествий</description>
+      </offer>
+      <offer id="TRI-002" available="true">
+        <url>https://example.test/tripod</url>
+        <price>2490</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Штатив, 2 м</name>
+        <description>Стальной штатив с надёжной фиксацией</description>
+      </offer>
+      <offer id="MIC-003" available="true">
+        <url>https://example.test/microphone</url>
+        <price>3990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Петличный микрофон</name>
+        <description>Компактный микрофон для записи</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
